@@ -2,7 +2,7 @@
 <h3 align="center">Java Backend Developer (in progress ☕)</h3>
 
 <p align="center">
- <img src="https://github.com/devskjj/devskjj/blob/main/code.gif" width="300"/>
+ <img src="https://github.com/devskjj/devskjj/blob/main/code.gif" width="50%"/>
   <img src="https://komarev.com/ghpvc/?username=devskjj&label=Profile%20views&color=0e75b6&style=flat" alt="devskjj"/>
 </p>
 
